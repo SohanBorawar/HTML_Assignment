@@ -1,0 +1,176 @@
+Module (HTML) -1
+
+• Are the HTML tags and elements the same thing? 
+
+no, if there is content between tags then it is called as element else if there is no content then it is called as tag
+
+• What are tags and attributes in HTML? 
+
+An HTML tag is a piece of markup language used to indicate the beginning and end of an HTML element in an HTML document.
+attributes can be defined as which defines the behaviour of the html tag 
+
+• What are void elements in HTML? 
+
+void elements are the html tag which doesn't contain any content inside them or self-closing & opening tags are known as void elements
+
+• What are HTML Entities? 
+
+An HTML entity is used to display invisible characters and reserved characters that would otherwise be interpreted as HTML code. It is a piece of text, or string, that begins with an ampersand (&) and ends with a semicolon (;).
+
+Useful HTML entities
+&nbsp; - non-breaking space
+
+&lt; - less than sign
+
+&gt; - greater than sign
+
+&amp; - ampersand (&)
+
+&quot; - double quotation mark
+
+&apos; - single quotation mark
+
+&cent; - cent sign
+
+&pound; - pound sign
+
+&yen; - yen sign
+
+&euro; - euro sign
+
+&copy; - copyright
+
+&reg; - registered trademark
+
+• What are different types of lists in HTML? 
+
+there are three types of list in html 
+1) ordered list 
+2) unordered list
+3) discription list 
+
+• What is the ‘class’ attribute in HTML? 
+
+The class global attribute. The class attribute specifies one or more classnames for an element. Classes allow CSS and JavaScript to select and access specific elements via the class selectors or functions like the DOM method document.getElementsByClassName.
+
+
+• What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML elements?
+
+The difference between id and class is that a same id in a html page can be used once not again provided to another element whereas, class be provided to as many as user want.
+
+ 
+• What are the various formatting tags in HTML?
+
+There are different types of formatting tags such as :
+<b> bold
+<i> italic
+<u> underline 
+<sup> superscript
+<sub> subscript
+<big> big
+<small> small
+<strong> strong
+
+ 
+• How is Cell Padding different from Cell Spacing? 
+
+The difference between cell padding and cell spaceing is that 
+
+cellpadding provides space between table cells and content 
+
+cellspacing provides space between table cells and between table cells and table border
+
+
+• How can we club two or more rows or columns into a single row or column in an HTML table? 
+
+by using rowspan for clubing rows and colspan for clubing columns
+
+• What is the difference between a block-level element and an inline element? 
+
+The difference between block-level element and inline element is that block element aquires the entire space in the row whereas the inline element aquires the space just needed to the content 
+
+• How to create a Hyperlink in HTML? 
+
+by using anchor tag 
+
+• What is the use of an iframe tag? 
+
+It is use to create a frame in the html page and using the features of another web application in your page such as youtube videos or google map
+
+• What is the use of a span tag? Explain with example? 
+
+The <span> tag is an inline container used to mark up a part of a text.
+
+• How to insert a picture into a background image of a web page?
+
+by using image tag <img src='' alt=''>
+ 
+• How are active links different from normal links? 
+
+Active Link : when we click it will turn into Red and Underline. Active Links shows that the browser is in the process to load a data.
+
+• What are the different tags to separate sections of text? 
+
+The <br> tag is one way to separate the lines of text. There are other tags like the <p> tag and <blockquote> tag that are also used to separate sections of text.
+
+• What is SVG? 
+
+SVG(Scalable Vector Graphics). SVG is used to define vector-based graphics for the Web. SVG defines the graphics in XML formatelement and every attribute in SVG files can be animated. SVG is a W3C recommendation
+
+• What is difference between HTML and XHTML?
+
+Hypertext Markup Language is a markup language used to create web pages and other information that can be displayed in a web browser.	
+eXtensible Hypertext Markup Language is a markup language that is a stricter version of HTML and conforms to XML syntax.
+
+Syntax	HTML allows for loose syntax, with end tags and attributes often being optional.
+XHTML requires end tags for all elements and attributes to be quoted.
+
+HTML does not support namespaces.	
+XHTML supports namespaces, allowing for the integration of other XML languages.
+
+HTML allows for the use of deprecated attributes.	
+XHTML does not allow the use of deprecated attributes and requires all attributes to be lowercase.
+
+HTML will continue to be supported by web browsers.	
+XHTML support by web browsers is limited and it is now largely replaced by HTML5.
+Future	HTML continues to evolve, with the latest version being HTML5.	
+XHTML development has largely been discontinued, with future developments focusing on HTML5.
+ 
+• What are logical and physical tags in HTML?
+
+Physical Tags are used in HTML to provide actual physical formatting to the text. Following are the Physical tags commonly used in HTML.
+
+Physical Tags
+
+<b>	Defines bold text
+<big>	Defines big text
+<i>	Defines italic text
+<small>	Defines small text
+<sup>	Defines superscripted text
+<sub>	Defines subscripted text
+<tt>	Defines teletype text
+<u>	Deprecated. Use styles instead
+
+
+Logical Tags are used in HTML to display the text according to the logical styles. Following are the Logical tags commonly used in HTML.
+
+Logical Tags
+
+<abbr>	        Defines an abbreviation
+<acronym>	Defines an acronym
+<address>	Defines an address element
+<cite>	        Defines citation
+<code>		Defines computer code text
+<blockquote>	Defines a long quotation
+<del>		Defines text
+<dfn>		Defines a definition term
+<ins>		Defines inserted text
+<kbd>		Defines keyboard text
+<pre>		Defines preformatted text
+<q>		Defines short quotation
+<samp>		Defines sample computer code
+<strong>	Defines strong text
+<var>		Defines a variable
+
+
+
